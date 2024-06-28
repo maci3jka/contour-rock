@@ -1,1 +1,2 @@
 *.rock
+tests/__pycache__
